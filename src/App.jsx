@@ -5,8 +5,11 @@ import Sidebar from './components/sidebar/Sidebar.jsx';
 import About from './components/about/About.jsx';
 import Education from './components/Education/Education.jsx';
 import Interest from './components/skills/Interest.jsx';
+import Pricing from './components/pricing/pricing.jsx';
 import Projects from './components/Projects/Projects.jsx';
 import CarouselImages from './components/Carousel/Carousel.jsx';
+import What from './components/what/what.jsx';
+import Contact from './components/contact/contact.jsx';
 
 class App extends Component {
   render() {
@@ -33,6 +36,10 @@ class App extends Component {
             <CarouselImages />
             <About />
             <Education />
+            <Interest />
+            <What />
+            <Pricing />
+            <Contact />
           </div>
         </div>
       </Router>

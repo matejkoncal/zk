@@ -67,6 +67,26 @@ export default function Sidebar() {
             Vzdelanie
           </Link>
         </li>
+        <li className='sidebar-nav-items'>
+          <Link smooth to='/#skills' className='links'>
+            Pracovné skúsenosti
+          </Link>
+        </li>
+        <li className='sidebar-nav-items'>
+          <Link smooth to='/#what' className='links'>
+            Čo ponúkam
+          </Link>
+        </li>
+        <li className='sidebar-nav-items'>
+          <Link smooth to='/#pricing' className='links'>
+            Cenník
+          </Link>
+        </li>
+        <li className='sidebar-nav-items'>
+          <Link smooth to='/#contact' className='links'>
+            Kontakt
+          </Link>
+        </li>
       </ul>
       <div
         style={{
