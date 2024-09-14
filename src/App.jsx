@@ -10,6 +10,7 @@ import Projects from './components/Projects/Projects.jsx';
 import CarouselImages from './components/Carousel/Carousel.jsx';
 import What from './components/what/what.jsx';
 import Contact from './components/contact/contact.jsx';
+import ScrollToTopButton from './components/scrollToTopButton/scrollToTopButton.jsx';
 
 class App extends Component {
   render() {
@@ -33,6 +34,7 @@ class App extends Component {
             <What />
             <Pricing />
             <Contact />
+            <ScrollToTopButton />
           </div>
         </div>
       </Router>
