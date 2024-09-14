@@ -33,8 +33,6 @@ export default function Sidebar() {
 
   return (
     <div className='sidebar'>
-      <div className='topHashtag'># psycholog</div>
-      <div className='topHashtag'># terapeut</div>
       <h1>
         <Link smooth to='/#start' className='h1_links'>
           Zuzana Končalová
