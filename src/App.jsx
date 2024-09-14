@@ -24,7 +24,9 @@ class App extends Component {
             </nav>
           </div>
           <div className='main'>
-            <CarouselImages />
+            <div className='carous'>
+              <CarouselImages />
+            </div>
             <About />
             <Education />
             <Interest />

@@ -35,6 +35,9 @@ p {
 /*//////////////// Media Query/////////////////*/
 
 @media (max-width: 992px) {
+  .carous {
+    display: none;
+  }
   .App {
     height: 100%;
     display: flex;
