@@ -45,7 +45,7 @@ class Contact extends Component {
         <h2 className={classes.heading}>Kontakt</h2>
         <div className={classes.About}>
           <div style={infoStyle}>
-            <p>Hurbanova 30, Žilina</p>
+            <p>Hurbanova 30 (2. poschodie), Žilina</p>
             <p>
               <a href='mailto:z.koncalova@gmail.com' style={linkStyle}>
                 z.koncalova@gmail.com

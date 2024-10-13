@@ -47,8 +47,8 @@ class Pricing extends Component {
             <span>28 eur (50 min)</span>
           </div>
           <p style={noteStyle}>
-            Pri zrušení konzultácie menej ako 24 hod. pred dohodnutým termínom klient hradí 100% z
-            ceny konzultácie.
+            Služby sú poskytované na priamu platbu, plne hradené klientom. Pri zrušení konzultácie
+            menej ako 24 hod. pred dohodnutým termínom klient hradí 100% z ceny konzultácie.
           </p>
         </div>
         {/* </ScrollAnimation> */}

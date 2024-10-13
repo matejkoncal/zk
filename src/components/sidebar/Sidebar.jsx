@@ -35,7 +35,7 @@ export default function Sidebar() {
     <div className='sidebar'>
       <h1>
         <Link smooth to='/#start' className='h1_links'>
-          Zuzana Končalová
+          Mgr. Zuzana Končalová
         </Link>
       </h1>
       <motion.div
@@ -44,16 +44,6 @@ export default function Sidebar() {
       >
         <img src={logo} className='my-img' />
       </motion.div>
-      <p style={{ color: 'black', fontWeight: 'bold' }} className='gmail'>
-        <a
-          href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL'
-          rel='opener noreferrer'
-          target='_blank'
-          className='fa fa-envelope'
-        ></a>
-        &nbsp;z.koncalova@gmail.com
-      </p>
-
       <ul className='sidebar-nav'>
         <li className='sidebar-nav-items'>
           <Link smooth to='/#about' className='links'>

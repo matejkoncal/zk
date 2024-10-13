@@ -23,16 +23,16 @@ class What extends Component {
         <div className={classes.About}>
           <ul style={listStyle}>
             <li style={listItemStyle}>
-              Poradenstvo pre dospelých klientov v oblasti rozvoja osobnosti
+              poradenstvo pre dospelých klientov v oblasti rozvoja osobnosti
             </li>
-            <li style={listItemStyle}>Podpora psychickej odolnosti</li>
+            <li style={listItemStyle}>podpora psychickej odolnosti</li>
             <li style={listItemStyle}>
-              Poradenstvo pri emočných problémoch (úzkosť, strach, nízke sebavedomie, a pod.)
+              poradenstvo pri emočných problémoch (úzkosť, strach, nízke sebavedomie, a pod.)
             </li>
-            <li style={listItemStyle}>Poradenstvo pri problémoch vo vzťahoch</li>
-            <li style={listItemStyle}>Nácvik relaxačných techník</li>
+            <li style={listItemStyle}>poradenstvo pri problémoch vo vzťahoch</li>
+            <li style={listItemStyle}>nácvik relaxačných techník</li>
             <li style={listItemStyle}>
-              Poradenstvo pre rodičov v oblasti výchovy detí a prístupu k nim
+              poradenstvo pre rodičov v oblasti výchovy detí a prístupu k nim
             </li>
           </ul>
           <p>

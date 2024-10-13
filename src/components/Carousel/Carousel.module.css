@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
 .image {
-  height: 734px;
+  height: 100vh;
 }
 
 .h1 {
   margin: 50px;
   font-size: 2rem;
-  font-family: 'Permanent Marker', cursive;
+  font-family: Roboto, sans-serif;
   animation-name: text;
   animation-duration: 1s;
   animation-timing-function: ease-out;
   position: relative;
-  top: -270px;
+  top: -500px;
   left: 10px;
   color: rgba(255, 255, 255, 0.8);
 }
@@ -19,15 +19,15 @@
 .h2 {
   margin: 50px;
   font-size: 2rem;
-  font-family: 'Permanent Marker', cursive;
+  font-family: Roboto, sans-serif;
   animation-name: text;
   animation-duration: 1s;
   animation-timing-function: ease-out;
   position: relative;
-  top: -470px;
+  top: -700px;
   left: -20px;
   text-align: right;
-  color: black;
+  color: #333333;
 }
 
 .h1 a {
