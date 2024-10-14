@@ -21,7 +21,7 @@ class About extends Component {
           <p className={classes.br}>
             Vyštudovala som jednoodborovú psychológiu a doposiaľ som svoje pracovné skúsenosti
             nadobudla v práci s deťmi, dospievajúcimi i dospelými v rôznych pracovných kontextoch,
-            kde som pracovala ako psychológ.
+            kde som pôsobila ako psychológ.
           </p>
         </div>
         {/* </ScrollAnimation> */}
