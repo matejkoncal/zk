@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import classes from '../about/About.module.css';
 import 'animate.css/animate.min.css';
+import { Button, FormControl, Stack, TextField } from '@mui/material';
 
 class Contact extends Component {
   render() {
@@ -62,8 +63,17 @@ class Contact extends Component {
             Preferujem komunikáciu prostredníctvom e-mailu, nakoľko vzhľadom na prebiehajúcu
             konzultáciu sa nemusíte vždy dovolať. Na zmeškané hovory však spätne reagujem.
           </p>
+          <form action='https://formsubmit.co/z.koncalova@gmail.com' method='POST'>
+            <Stack spacing={2} maxWidth='500px'>
+              <TextField label='Meno' type='text' name='name' required />
+              <TextField label='Email' type='email' name='email' required />
+              <TextField minRows={5} multiline name='message' label='Správa' required />
+              <Button type='submit' variant='outlined'>
+                Odoslať
+              </Button>
+            </Stack>
+          </form>
         </div>
-        {/* </ScrollAnimation> */}
       </div>
     );
   }

@@ -45,9 +45,6 @@ class What extends Component {
             spolupráce mohol cítiť bezpečne a otvorene dokázal hovoriť o svojich ťažkostiach.
           </p>
           <p className={classes.br}>
-            Svoju prácu pravidelne supervidujem so skúseným kolegom v oblasti poradenstva.
-          </p>
-          <p className={classes.br}>
             <b>Upozornenie:</b> Ponúkané služby nespadajú pod výkon zdravotnej starostlivosti ani
             psychoterapie, na ktorých výkon sa v SR vyžaduje ďalšia špecifická kvalifikácia.
           </p>
