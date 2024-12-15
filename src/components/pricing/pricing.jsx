@@ -47,7 +47,11 @@ class Pricing extends Component {
             <span>28 eur (50 min)</span>
           </div>
           <div style={itemStyle}>
-            <span>Spojená konzultácia rodič + dieťa </span>
+            <span>
+              Spojená konzultácia
+              <br />
+              rodič + dieťa{' '}
+            </span>
             <span>40 eur (25 + 50 min)</span>
           </div>
           <p style={noteStyle}>
