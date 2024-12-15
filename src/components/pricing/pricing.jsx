@@ -48,7 +48,7 @@ class Pricing extends Component {
           </div>
           <div style={itemStyle}>
             <span>Spojená konzultácia rodič + dieťa </span>
-            <span>(25 + 50 min) / 40 €</span>
+            <span>40 eur (25 + 50 min)</span>
           </div>
           <p style={noteStyle}>
             Služby sú poskytované na priamu platbu, plne hradené klientom. V odôvodnených prípadoch
