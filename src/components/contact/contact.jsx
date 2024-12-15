@@ -59,11 +59,11 @@ class Contact extends Component {
             </p>
           </div>
           <p style={noteStyle}>
-            Na konzultáciu sa môžete objednať mailom alebo telefonicky, prípadne SMS správou.
-            Preferujem komunikáciu prostredníctvom e-mailu, nakoľko vzhľadom na prebiehajúcu
-            konzultáciu sa nemusíte vždy dovolať. Na zmeškané hovory však spätne reagujem.
+            Kontaktovať ma môžete prostredníctvom kontaktného formuláru nižšie, e-mailom,
+            telefonicky alebo SMS správou. Vzhľadom na prebiehajúcu konzultáciu sa nemusíte vždy
+            dovolať, na zmeškané hovory však spätne reagujem.
           </p>
-          <form action='https://formsubmit.co/z.koncalova@gmail.com' method='POST'>
+          <form action='https://formsubmit.co/b85d3f276b437ca5fb5cd8a409e26fe2' method='POST'>
             <Stack spacing={2} maxWidth='500px'>
               <TextField label='Meno' type='text' name='name' required />
               <TextField label='Email' type='email' name='email' required />

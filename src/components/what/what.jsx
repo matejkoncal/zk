@@ -22,9 +22,7 @@ class What extends Component {
         <h2 className={classes.heading}>Čo ponúkam?</h2>
         <div className={classes.About}>
           <ul style={listStyle}>
-            <li style={listItemStyle}>
-              poradenstvo pre dospelých klientov v oblasti rozvoja osobnosti
-            </li>
+            <li style={listItemStyle}>poradenstvo v oblasti rozvoja osobnosti</li>
             <li style={listItemStyle}>podpora psychickej odolnosti</li>
             <li style={listItemStyle}>
               poradenstvo pri emočných problémoch (úzkosť, strach, nízke sebavedomie, a pod.)

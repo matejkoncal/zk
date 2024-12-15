@@ -46,9 +46,14 @@ class Pricing extends Component {
             <span>Online konzultácia</span>
             <span>28 eur (50 min)</span>
           </div>
+          <div style={itemStyle}>
+            <span>Spojená konzultácia rodič + dieťa </span>
+            <span>(25 + 50 min) / 40 €</span>
+          </div>
           <p style={noteStyle}>
-            Služby sú poskytované na priamu platbu, plne hradené klientom. Pri zrušení konzultácie
-            menej ako 24 hod. pred dohodnutým termínom klient hradí 100% z ceny konzultácie.
+            Služby sú poskytované na priamu platbu, plne hradené klientom. V odôvodnených prípadoch
+            je možná zľava z ceny konzultácie. Pri zrušení konzultácie menej ako 24 hod. pred
+            dohodnutým termínom klient hradí 100% z ceny konzultácie.
           </p>
         </div>
         {/* </ScrollAnimation> */}
