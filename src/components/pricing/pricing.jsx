@@ -40,11 +40,11 @@ class Pricing extends Component {
         <div className={classes.About}>
           <div style={itemStyle}>
             <span>Individuálna konzultácia</span>
-            <span>28 eur (50 min)</span>
+            <span>35 eur (50 min)</span>
           </div>
           <div style={itemStyle}>
             <span>Online konzultácia</span>
-            <span>28 eur (50 min)</span>
+            <span>35 eur (50 min)</span>
           </div>
           <div style={itemStyle}>
             <span>
